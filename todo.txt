@@ -1,0 +1,2 @@
+- Calibrate the camera
+- Add flipping capability to the main program (Use ijkl and DPAD)
